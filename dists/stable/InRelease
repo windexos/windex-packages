@@ -5,30 +5,28 @@ Origin: WindexOS
 Label: WindexOS APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 04 Jul 2026 18:57:58 +0300
+Date: Sat, 04 Jul 2026 16:05:00 +0000
 Architectures: amd64
 Components: main
 Description: Official APT repository for Wind Developers Corporation products.
 MD5Sum:
  42259f6f49ce9031d674a14032c6b222 415 main/binary-amd64/Packages
- 26e09d28239b799b643a05aaaa79a8fb 29 main/binary-amd64/Packages.gz
 SHA256:
  fec3a64ee2bea921c4bfab4cd71fb5a823b37a72f14af3449c6c0d8d32039b3b 415 main/binary-amd64/Packages
- e912df4f5168cd025dc0405bb5dbab61662a3b7094d07db671e11eefed5eebc6 29 main/binary-amd64/Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpJLZIACgkQs1Gkq9Lc
-Lvfvaw/+J75itJ7hQvV5ejfCrP4bY/4o/NB9aKGJ5x5bkGe9lEFhCyll2zEZvhTX
-XUiss7VxbwsKlwSFKgsQLSQ5tNxNVsO5s8ci3YgfamtI8TMLihET4rKc6Hdwo6um
-mbIcsmOdqQsjwBGHfd/MQ8sBLqREe8evEo4XHD9NWjLWwCzrfajljQOCresmiWpH
-pD4tuv003Cd3MGMyT/C9LSAJv9YADqVstw2svfJkKMLgTWWBwz9RIPnGpxi0QFhV
-ODUbwDisUQa/bjT2fSfHoF5Zqc9aEvja9Aehiam0LiDwI6G44UgXbHvC49rD2lmQ
-R24aDEVyMOQsgqYJHMpXq6W6gbFGvA9BiYwkpcX/SxyFK3biVmbMCAa9YuccmACL
-Oq+Dz7iEfhHTnj9cbKDeuktudyeVxOVur4sWs1yzbBYh2vvOAoem66Bwqg2heU44
-T/jnanW/+oy5+TK2IRPzwERkpU8ESyUbnq4K9/GOwe6aRZV08EOwu9ggYqMgoj4T
-nBJ2kHlTEy6yk4miAveTo3dkHJnV3wuIgJ0+tzNXyeOvIenmFf7RgHU7QNSVkUOd
-eWceNqTEdVC/TI0wd4bPPGJcXO9udFL3zjgqQ77Dsst6Hm2uleZVSlt+aHS/oWQQ
-f/Eb4indoDqL7QCcB9rSI5eUuG1nnXws/CA1kvaTneqvcHVus+Y=
-=xv6s
+iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpJLp0ACgkQs1Gkq9Lc
+LvfO7hAAg9x/+RcxBVWvBPi6uXxymztcwWzSxDFX3V9+cU4GJ7qOyOoHTnazvA8D
+j1+h8dqtC1LUqMXGD0Nwtg1ZAFu6ayX644Le217aWC8ZTDMlmVUlNix7gXgN2180
+6Vko4ESFAnMXF1sXLOF7tzOir3tVyC36FFQw4zMaPB6YJ77unVMNXBC4/zM2ljim
+CFAvysG9FwkZws88S9a8PLHyTVc7WcVseqFR1seFLI/58atYkVd6SX+MVIww521y
+Xk+NL1cqt0r2ti/BdHLIm2GAFRz86owTEkYWc98ayqUCgOMkFSUTaWz4BEvdUla7
+flrauMfGiXXSL6yMpStGEjiwr0mWFZXrgJ5f5Vie4TRCfBqSiDVEFdecXqT2aNIe
+ydmmuLZ9t92SBWwUCNARAiPl9Wqa9WMIeFeMXrtoQnaRFJIl7tHUvXgarmFU+URy
+xXl491Ul1ooam8JE1CLdCo1ymCcoAzEyVOlFP/CgenA2LHqBTDjQtanRVyLjoToB
+W8Y10XsyRUqUMuBKCx3IKY1D8xqyd37gNTqueJt1lW4OTGRHn16WdH5VClinDaZh
+ZHEnb/Dkyqc0H1x8LEAM4ilqVmX206Qzio9TbXwBJt34DPMXuzyZugBwoFNy7F+2
+DsAuN4c3JIEYik/UPRztVxzh0l1RMMxDkfLTjf6zSMlVjBpwTKA=
+=ULvS
 -----END PGP SIGNATURE-----
