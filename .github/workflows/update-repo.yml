@@ -1,0 +1,55 @@
+name: Update APT Repository
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'pool/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Install APT Utilities
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y apt-utils gpg
+
+    - name: Import GPG Key
+      uses: crazy-max/ghaction-import-gpg@v6
+      with:
+        gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+        passphrase: ${{ secrets.GPG_PASSPHRASE }}
+
+    - name: Build APT Structure
+      run: |
+        mkdir -p dists/stable/main/binary-amd64
+        apt-ftparchive packages pool/main > dists/stable/main/binary-amd64/Packages
+        gzip -c dists/stable/main/binary-amd64/Packages > dists/stable/main/binary-amd64/Packages.gz
+        
+        cat <<EOF > apt-release.conf
+        APT::Repository::Origin "WindexOS";
+        APT::Repository::Label "WindexOS Official Repository";
+        APT::Repository::Suite "stable";
+        APT::Repository::Codename "stable";
+        APT::Repository::Architectures "amd64";
+        APT::Repository::Components "main";
+        APT::Repository::Description "Official APT Repository for WindexOS and Linux Distributions";
+        EOF
+        
+        apt-ftparchive -c apt-release.conf release dists/stable > dists/stable/Release
+        gpg --default-key "packagewindexos@abrdns.com" --clearsign -o dists/stable/InRelease dists/stable/Release
+        gpg --default-key "packagewindexos@abrdns.com" -b -o dists/stable/Release.gpg dists/stable/Release
+        rm apt-release.conf
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "WindexOS Bot"
+        git config --global user.email "bot@windexos.org"
+        git add dists/
+        git commit -m "chore: auto-update repository indexes [skip ci]" || exit 0
+        git push
