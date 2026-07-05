@@ -11,15 +11,15 @@ Section: utils
 Priority: optional
 Description: Like neofetch, but much faster because it is written in pure C.
 
-Package: nala
-Version: 0.17.0
-Architecture: all
+Package: micro
+Version: 2.0.14
+Architecture: amd64
 Maintainer: Wind Developers Corporation <info@winddevelopers.com>
-Installed-Size: 640
-Filename: pool/main/nala.deb
-Size: 280
-MD5sum: 94a357950bd93acedd84bdba543c2884
-SHA256: e95018eb8da23bef107721da7d5c2a6e6be3660c039cbf220ac3d38f4e179166
-Section: admin
+Installed-Size: 8500
+Filename: pool/main/micro.deb
+Size: 9
+MD5sum: 9d1ead73e678fa2f51a70a933b0bf017
+SHA256: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5
+Section: editors
 Priority: optional
-Description: A beautiful frontend for libapt-pkg. Provides parallel downloads, history, and a gorgeous UI.
+Description: A modern and intuitive terminal-based text editor with full mouse and standard shortcut support.
