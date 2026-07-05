@@ -5,28 +5,28 @@ Origin: WindexOS
 Label: WindexOS APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 05 Jul 2026 12:45:00 +0000
+Date: Sun, 05 Jul 2026 12:50:00 +0000
 Architectures: amd64
 Components: main
 Description: Official APT repository for Wind Developers Corporation products.
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 415 main/binary-amd64/Packages
+ eb2bb4ef572c7e2b227af263e1a57374 418 main/binary-amd64/Packages
 SHA256:
- fec3a64ee2bea921c4bfab4cd71fb5a823b37a72f14af3449c6c0d8d32039b3b 415 main/binary-amd64/Packages
+ 1d72ee9ce057c3cb5ebd64b28774399289f10aa68e594e241eb09c48e4458508 418 main/binary-amd64/Packages
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKUp4ACgkQs1Gkq9Lc
-Lve0sBAA1uiuNOkZLyk1gYWsRJhkkMKFDP+FSTePi+HsICM4Gyrr9Jf/EmfvCz1e
-HPYkc4ljhcHfH1nkAjAUO/+3nLOKtDmDxcZZfO5QXsve8xk5bMLrA+Ds7aYAXb3j
-gF0gv/vmqQ0kKndFEyoA1higNUvSWPACH5pgVxMpn7VmgfDax4rgJkmdlr6G8AVt
-EkMQtnwa+HQ+UIeF2yCc1E3s/R5iJYWDDZAQbmvAW0HXjyKkzUukQ1I9kVXdwm8a
-Pdp6eLM+PwpCOqzh4NVztGQ6OBcq5BCCMCWYSLf6LIjpZjE9K9jXXmHoJAe87Os1
-AdD0Wt6sGYVA28zfHv4QDVTCe8rrQ1wnaecDic9SKvHd100Jt9O3F17LdaIpKFUa
-uXZiEgyIrLLUseBugwbc9rNra5GWdRkMh23ku6q8wj8UuelUAkxJQW4VuOjzQjDq
-hvjX6+pNHwvJre/0Zx0bnisIuA4xzGY7WPo0i72EBoWzOGusr+VDU3jpFW0oAPCT
-A1gSjEMl3H1gflWoIlSGGcItOO1PrkoNqbyiOjK5qrzuvT/M9OPeUcxzafPSDDxb
-5wkrOUgTPSnaS54xY1DB+UoxY8wsrFUlLwEEtCYXqPN6i5IF7uOPRnXejEY6J0xO
-NOVx+/Os+CatsQi9H0h0FmiahRvVyG1gDQj4yeqkCb04vvtaTsA=
-=I6He
+iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKUz4ACgkQs1Gkq9Lc
+LvdYBxAAwZDocOo3gHUahtEYzJyo/eGvFCSLN1PZggvnkBQTuH/lLCrIa8Ldd1NV
+BUVVMw7e9eOUDX9fldZZXQBbJHcM/gk47XgipncihT1biVXZGgnFywTBS16wdD9i
+qq5DmHStNDE891MLGa6CPKit9o4FWCO+sFWtKLF7sbwcke5NQayWQWaznjhyOWAQ
+dPP8euqBonoQ+YMqZtbLCMIOfoLr6u0earilutH4QhW594U743hu5S7NkzJczLUb
+braSc0ucsVGG8hBoLBhkwbXDTCo1E9a/h+4c/SYlU8JBhBEE6eHGXB4s7qE2Ac48
+xIb+BJ2OBvK3Tegavn8zrDJFQjQoTFDPZuX9yLmsOsBcIfOq6OkVNWQkd/Z5PyR6
+uPxIQta1Lj/Qflx0P1bfL6iiuNV7aFitH6T0mKmcsA6C4POkUK25cZFfPtsBbMlT
+VkRa3lVdxr6wav05Pp80TqO5KIXI6DMEditvbqfaq1zm4udTO54V0WtsdY0TiHeK
+9pDficpzch0g9SbDIKeSRuHSwGo4gT2FUKlV9+VTk34ITvtEQv3Avil3rWsDlSWQ
+7/vYX3zzv4yzey4yZefK9inOCCwnxmJO7LoeKlNjuRv5tJueMlWt6TsQ/CLABWgr
+QWzliSdQHvHO8z1CMVAY+BeEh7TQd7hduk26sGRgl+TVkSv2UK0=
+=SHyo
 -----END PGP SIGNATURE-----
