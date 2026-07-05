@@ -1,45 +1,32 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-
 Origin: WindexOS
-
 Label: WindexOS APT Repository
-
 Suite: stable
-
 Codename: stable
-
-Date: Sun, 05 Jul 2026 12:40:00 +0000
-
+Date: Sun, 05 Jul 2026 12:45:00 +0000
 Architectures: amd64
-
 Components: main
-
 Description: Official APT repository for Wind Developers Corporation products.
-
 MD5Sum:
-
- 2560c2d2c69d783bd69799e318b540a4 433 main/binary-amd64/Packages
-
+ d41d8cd98f00b204e9800998ecf8427e 415 main/binary-amd64/Packages
 SHA256:
-
- c8852ecc1e71b473fc70f44a1efe4b01a914675c7b19e6cb9b9774b403dd2ee6 433 main/binary-amd64/Packages
-
+ fec3a64ee2bea921c4bfab4cd71fb5a823b37a72f14af3449c6c0d8d32039b3b 415 main/binary-amd64/Packages
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKUPAACgkQs1Gkq9Lc
-LvcEiBAAhPXr+e4pFblPge2cnG36+eE2VLuDcOxk9idgb81Map8jHVMKC15oykG2
-+8AzqJCnbVrr0Ldn7/3+/0ZDU2MB2knU9ObP201AacG4zHaFxysXG9Z28FJWx50N
-Jem6dVEkylzNXdTPktK43IZcftWCuqfRu44zwOPKAJIMRb5WDuMbZ8IwZxZvdSlY
-xmUKN2aIjXnJnF6f74TnUDQBZlVyLxRDy0mHB6t8yaQZnKLPNKrD1TTrXfMIpqs+
-psmaZV6jeLbZEGYho8S6umnX59/dondecpA/rhb92iWLzMOvQV2U2lvkYRrlKOYZ
-kqewMyU1DZbn4FsY6eqnW3sAB+EkohACbFug3nM6EUA3iXoexN1K2Vag84RaQ5AB
-r9ckMuPpuq4oKk/W71YdL12+2YLKnSeJx1zzL6Q8f7ugCglczePu+hnjIT9BZHEg
-AuYmX++cH/ONLFPb48zvTWT3ke/ONlkXDXULEfSkcQekgrYUixvQwPYnV3prxKBY
-RjcpoRVuSkAQpWXRQ+8ODNhChLuOhPPto5xZx3zqdykPVWUNkBk+SrLvHdlwPLJW
-HryarjcoWth1q9MJhbmd/rxn/WnV5fP+8So+JEZR6I8xSwVuUdZrmSwkq9CowAr9
-g9ObgfWFFCCzm0F5Anfm7hPQY0WxiF2lzMmYZDWfsKJtwWBDtPg=
-=xlnf
+iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKUp4ACgkQs1Gkq9Lc
+Lve0sBAA1uiuNOkZLyk1gYWsRJhkkMKFDP+FSTePi+HsICM4Gyrr9Jf/EmfvCz1e
+HPYkc4ljhcHfH1nkAjAUO/+3nLOKtDmDxcZZfO5QXsve8xk5bMLrA+Ds7aYAXb3j
+gF0gv/vmqQ0kKndFEyoA1higNUvSWPACH5pgVxMpn7VmgfDax4rgJkmdlr6G8AVt
+EkMQtnwa+HQ+UIeF2yCc1E3s/R5iJYWDDZAQbmvAW0HXjyKkzUukQ1I9kVXdwm8a
+Pdp6eLM+PwpCOqzh4NVztGQ6OBcq5BCCMCWYSLf6LIjpZjE9K9jXXmHoJAe87Os1
+AdD0Wt6sGYVA28zfHv4QDVTCe8rrQ1wnaecDic9SKvHd100Jt9O3F17LdaIpKFUa
+uXZiEgyIrLLUseBugwbc9rNra5GWdRkMh23ku6q8wj8UuelUAkxJQW4VuOjzQjDq
+hvjX6+pNHwvJre/0Zx0bnisIuA4xzGY7WPo0i72EBoWzOGusr+VDU3jpFW0oAPCT
+A1gSjEMl3H1gflWoIlSGGcItOO1PrkoNqbyiOjK5qrzuvT/M9OPeUcxzafPSDDxb
+5wkrOUgTPSnaS54xY1DB+UoxY8wsrFUlLwEEtCYXqPN6i5IF7uOPRnXejEY6J0xO
+NOVx+/Os+CatsQi9H0h0FmiahRvVyG1gDQj4yeqkCb04vvtaTsA=
+=I6He
 -----END PGP SIGNATURE-----

@@ -1,25 +1,12 @@
-
 Origin: WindexOS
-
 Label: WindexOS APT Repository
-
 Suite: stable
-
 Codename: stable
-
-Date: Sun, 05 Jul 2026 12:40:00 +0000
-
+Date: Sun, 05 Jul 2026 12:45:00 +0000
 Architectures: amd64
-
 Components: main
-
 Description: Official APT repository for Wind Developers Corporation products.
-
 MD5Sum:
-
- 2560c2d2c69d783bd69799e318b540a4 433 main/binary-amd64/Packages
-
+ d41d8cd98f00b204e9800998ecf8427e 415 main/binary-amd64/Packages
 SHA256:
-
- c8852ecc1e71b473fc70f44a1efe4b01a914675c7b19e6cb9b9774b403dd2ee6 433 main/binary-amd64/Packages
-
+ fec3a64ee2bea921c4bfab4cd71fb5a823b37a72f14af3449c6c0d8d32039b3b 415 main/binary-amd64/Packages
