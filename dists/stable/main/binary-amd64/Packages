@@ -5,8 +5,8 @@ Maintainer: Wind Developers Corporation <info@winddevelopers.com>
 Installed-Size: 15360
 Filename: pool/main/fastfetch.deb
 Size: 5906742
-MD5sum: f29bf6373bdf0ff4c8996fb92427ae41
-SHA256: 7e73a0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+MD5sum: b0fb68cd050640193f3d577c81cc56b3
+SHA256: 89b2dc201cb38ec89040369e674477f643274db869d498dfdec4c3152042eb14
 Section: utils
 Priority: optional
 Description: Like neofetch, but much faster because it is written in pure C.
