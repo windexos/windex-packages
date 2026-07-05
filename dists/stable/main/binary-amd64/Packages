@@ -10,3 +10,16 @@ SHA256: 89b2dc201cb38ec89040369e674477f643274db869d498dfdec4c3152042eb14
 Section: utils
 Priority: optional
 Description: Like neofetch, but much faster because it is written in pure C.
+
+Package: nala
+Version: 0.17.0
+Architecture: all
+Maintainer: Wind Developers Corporation <info@winddevelopers.com>
+Installed-Size: 640
+Filename: pool/main/nala.deb
+Size: 280
+MD5sum: 94a357950bd93acedd84bdba543c2884
+SHA256: e95018eb8da23bef107721da7d5c2a6e6be3660c039cbf220ac3d38f4e179166
+Section: admin
+Priority: optional
+Description: A beautiful frontend for libapt-pkg. Provides parallel downloads, history, and a gorgeous UI.
