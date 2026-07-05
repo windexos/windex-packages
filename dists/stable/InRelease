@@ -5,7 +5,7 @@ Origin: WindexOS
 Label: WindexOS APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 05 Jul 2026 16:05:02 +0300
+Date: Sun, 05 Jul 2026 13:08:15 +0000
 Architectures: amd64
 Components: main
 Description: Official APT repository for Wind Developers Corporation products.
@@ -16,17 +16,17 @@ SHA256:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKVn8ACgkQs1Gkq9Lc
-LvdAjw//Q9UwQrEpC8HYpeNOqlAZFtnQd+mlJONoHY+hTGdEv7Ve8m1CsVwCC194
-+IW2ToPbWmy9Do902Cz8e8ixozLQLhYdGJU1xuDFIjBd5RiwDTlrywHE7AyTDUnV
-uEk4h1hdddZ/O5TNI5K2fLjWDDM9bj5gMmdSO5JUlcG10TIRA0uVcMRUeO1JoUW3
-LNgybG+K87wVsVA6/qK9kEhBEtvR4zpkQQB93nu7nbfcToDOWd/KCepPn3PZFX5A
-BWlrTP1asXxdhXFA68reReI/mQkgU0XhTz/XkXdnsUD9Uef6sBV96veIY/8pAnNu
-4ztIb1rjhCly7FRqJ0CizmaQtGj1h5pM+W0DaA0E/VJQ7BSn0GqXq6ST5eaDYHkt
-LyjhgsT5JYpbb/rSIyuDEc+nTc1G7XUmdA+wqxk+Frp/t9PhtGJUP6fTxtecfwar
-n9eXJtoT/dmh56+Ge+zlLVphX0Yle4au92+ZL8WTaUQkM8mvlf4928j1FmMsSHch
-Wlm+naQH4nMyx8d+a0Z5OcuKQzsnTJPUT1F+VYVh3aqkcPqOhcKeGHka4iigAdW9
-Rk7A8CSiI9kwKknACOMaD2IwdjDUzjWNdxCTHxswKlnLWjJSyHgB7VvtBVVucRAw
-JY2btWmm6YIwv+9NK07zReqADbS/a8itdqbXFiyowKkIN2vaTWk=
-=nP+6
+iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKV0EACgkQs1Gkq9Lc
+Lvdm3BAAlhoi5NHD9vmA+dqSu78L/vG3qN2g9/tX1WwUuo1kKhi/0ZDOFCa0GVFr
+eU6lf0nMWjnsfZiceiVeCX3eA6Yn9zCpUzMEq70PXZtgFY9YTzQQdIBa6r9ue5rW
+TlWoLiAciyfLm2XteOk6p178bIhmenTuKD3xhxwkr0vp5Pj32Dn/Z8SnEiufqbk0
+XGhSdMt4CE1kq/Ara5zD0InckUc/Hz+gfd3Y4yptVNLH8GyMHysmA0YeL8V8RWUI
+tPLWL07WARZoeUvRo+opzdkib4B2Kh7zLB4HNqIBveZTsWJykcrqv5hWOtATaRpX
+RJ2DwdnDAcqflI1ZB06osv5dS9QFd1rJkjh1gDAL7SJclKEEhj1cklZrHzTFL+7a
+puvYKJD9g9MMFkbHMOW9Hr7/LqDo1lSIQhtMKCkTqYzcaajbndD7POHfDpKwXdpW
+nBvPwbFmadQVU9p4pNBlM974/ow2GhU0mzkdm5f4Q0AAGXGiy1cuvR5up5jDMlG6
+OyK7ZkUfZBp4t69tc1s6QH13KfXO4K1+EZMEpTzyNZaFRdiZotuSgsKyhQNa9Mc1
+sB/HgxtJZu3OckYKIlmA7z83iX8g7X8V7E+4XugkXzMBwKkyezizkAsYWUq/FvCc
+E0jE1AD/qsK8QMkeO8VwnN9zPz/3tyeD+jYRBmce+7g5pWBs0UQ=
+=SKdO
 -----END PGP SIGNATURE-----
