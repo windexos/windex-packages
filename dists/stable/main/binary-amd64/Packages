@@ -1,12 +1,25 @@
+
 Package: fastfetch
+
 Version: 2.15.0
+
 Architecture: amd64
-Maintainer: Wind Developers Corporation <info@winddevelopers.com>
-Installed-Size: 3124
+
+Maintainer: Wind Developers Corporation <supportwinddevs@gmail.com>
+
+Installed-Size: 15360
+
 Filename: pool/main/fastfetch.deb
-Size: 1048576
-MD5sum: d41d8cd98f00b204e9800998ecf8427e
-SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Size: 5906742
+
+MD5sum: f29bf6373bdf0ff4c8996fb92427ae41
+
+SHA256: 7e73a0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
 Section: utils
+
 Priority: optional
+
 Description: Like neofetch, but much faster because it is written in pure C.
+
