@@ -11,15 +11,15 @@ Section: utils
 Priority: optional
 Description: Like neofetch, but much faster because it is written in pure C.
 
-Package: micro
-Version: 2.0.14
-Architecture: amd64
+Package: live-build
+Version: 20250814
+Architecture: all
 Maintainer: Wind Developers Corporation <info@winddevelopers.com>
-Installed-Size: 8500
-Filename: pool/main/micro.deb
-Size: 9
-MD5sum: 9d1ead73e678fa2f51a70a933b0bf017
-SHA256: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5
-Section: editors
+Installed-Size: 950
+Filename: pool/main/live-build.deb
+Size: 205200
+MD5sum: cb54a3455e76fded09b6bf67cbd2449a
+SHA256: a4bffb8e6436ffba260f2e1c37be9dd04a4dacf52c38d7bbe454ec826ba52a4b
+Section: misc
 Priority: optional
-Description: A modern and intuitive terminal-based text editor with full mouse and standard shortcut support.
+Description: Debian Live Software Architecture - Live-Build components for WindexOS ISO creation.

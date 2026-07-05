@@ -5,28 +5,28 @@ Origin: WindexOS
 Label: WindexOS APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 05 Jul 2026 13:19:05 +0000
+Date: Sun, 05 Jul 2026 13:29:42 +0000
 Architectures: amd64
 Components: main
 Description: Official APT repository for Wind Developers Corporation products.
 MD5Sum:
- 2e400c4a8d2a835860ed1636497e023c 853 main/binary-amd64/Packages
+ 25ed44dcab900b6a47dad609dc561a26 852 main/binary-amd64/Packages
 SHA256:
- 556143a9d9930c2980e6b5176e6183fb1ac487bc64f3bf09bc03b16f30fb242b 853 main/binary-amd64/Packages
+ ba4e3464707a303c7afa92cc10c7d8ccfe8e59e14f6f0ea6d80afed3506a971d 852 main/binary-amd64/Packages
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKWcwACgkQs1Gkq9Lc
-Lvf/bhAA1ELd1+A50+iZpjL9pUYmI5ZLlhayafQ4voPsO1XUxhlFPfcCjz301erB
-NExqyd2QfUq97yMdWCqRKBWlMUCRxtH1ot1FBzk40AnIPtZE2N1smG3akaaZEEfz
-/jPfZG+j3n0/U+LXhUiFB3ip/QSuSwb6fmFrVYStwXFNhi4tCo7lTS5xbuemSoNl
-zvBM2e+8l4DqvlWiiWWx7cxnLi7N/kjgY9zWwSv420uu5BsNaYVrWup23kPnxEoz
-GikK/vfbVUyUdFKd8mtnKhNjI2j653r/si+5bhDWgYULmCuLBmuk4KYOKUgWbibu
-w18SBkpzPUUadrqRokEA7jtlJmqsdor4U/zE4yBdXLxuBObz1OXuLckA4jihCIXT
-X0hS5/1bFyDlowa3UI92e/odgI9CpNsWeveTAb0yQrC6goJ+jde0tGQZjBEPbcnU
-ySVLNvZAq+sp40g11z9c5oP7fnbiITS03aZwKcCaGxai3TJEIUBqbmcd0mNNXuIo
-nkRkPam1ECxfm3yynz5LjP/M7r8rnGN0UPusTNfymEvVv3cdNqFVEGlbHPkb8fgv
-IjAqffcEy+ytEx1SvZA4XxBFEeSMWypMbprGn9c+epHTegBcWvI3NLz8ZHUDs1s7
-o3RSaxN5cpaoiuhf88QpJo0LIiq4iFzVRoQDUh+eAJxHAeEQUC4=
-=IS2X
+iQIzBAEBCgAdFiEEkr1R5iCpYb23ANmhs1Gkq9LcLvcFAmpKXEcACgkQs1Gkq9Lc
+LvfikQ//d7c4FOl4kOSotYLd32k/TG5RjMP/IepWJn65xmiEI3A13Tcm1vp5eF94
+YOC0Jfv6o7KXFi7b04zppWkO7Tx/OoZZMwxhe1zRu41LjROvYn4HXkHb5yxXubI/
+xvdb1riy4URkcM0BOGq/3qJoWbfxdbyzpxxZWUyVzhuU1GsnUv1qlGoLB1UYYoNw
+nVZU7nTB6OFF8Ni7G50xqYkHRRyiDYEJfrAmhk7NaEtDt+fp9eiC25Z++fP9ksTF
+Qn5alOnjnj1YvoOI/xV0mNrdlOG/ZqC9PgaGd3KcmFw7nzqopyAh6P8iKwRzbu1p
+5KAqvwpEWmHIr4eFizGSD1Whl1W/RT6FLZgODGrq0ILsc4NJCmzO7q4koNAIXpJ8
+snLFFhyHdWOo8CjKABBL75M9ST7vZeDuzbZffu0mZMs6plNsoTWWvjBiXbOQKJpU
+RWCMFHG4Ob7BaTHCNbGPJpNVUYkuRSzYeolbLXVYuug2uxkqIEOKPhMgIDquRhd7
+X1I7SkJy046xM4wADgwRCmsjHJmwsmb22YnTAV5cuUJUODfDvhIqjqTMs0C2KuC0
+Az6ITEyzvv2k0a02+oh0LjOVx26IUbXA6SEqHYbNdEtcl9fnZvd6zRncZ5EmlLB8
+HJ30+M/19wNe07VFLTuHGaews5UHwNqrkY3H09L/8X0c0hT9TQo=
+=w3fe
 -----END PGP SIGNATURE-----
